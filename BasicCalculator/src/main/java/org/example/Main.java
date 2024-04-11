@@ -18,12 +18,12 @@ public class Main {
                
                 |Possible Calculations|
                 
-                   [A]dd 
-                   [S]ubtract 
-                   [M]ultiply 
+                   [A]dd
+                   [S]ubtract
+                   [M]ultiply
                    [D]ivide
                 
-                |Please select an option|: """);
+                |Please select an option|:""");
 
 
         String mathOption= scanner.nextLine();
