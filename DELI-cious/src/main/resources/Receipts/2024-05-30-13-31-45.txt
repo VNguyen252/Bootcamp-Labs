@@ -1,0 +1,12 @@
+Order Receipt
+Date: 2024/05/30 13:31:45
+Sandwich total: $0.00
+    - 12
+    - sourdough Bread
+    - Meat: steak
+    - Extra meat
+    - Cheese: pepperjack
+    - Extra cheese
+    - spinach
+    - mayo
+Total: $0.00
